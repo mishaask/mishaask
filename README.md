@@ -16,7 +16,9 @@ Here are some ideas to get you started:
 -->
 ## Certifications
 
-[![AWS Academy Graduate - Cloud Developing](https://images.credly.com/size/220x220/images/YOUR_BADGE_IMAGE.png)](https://www.credly.com/badges/731c3be1-a822-492a-8c4a-d466ecb0e1ef/public_url)
+<a href="https://www.credly.com/badges/731c3be1-a822-492a-8c4a-d466ecb0e1ef/public_url">
+  <img src="assets/aws-cloud-developing-badge.png" width="120" alt="AWS Academy Graduate - Cloud Developing"/>
+</a>
 
-AWS Academy Graduate - Cloud Developing  
+**AWS Academy Graduate - Cloud Developing**  
 Issued by Amazon Web Services Training and Certification
